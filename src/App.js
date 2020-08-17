@@ -1,10 +1,13 @@
 import React from 'react';
 
 
+import Header from "./components/Hearder/index";
+
+
 function App() {
   return (
     <div className="App">
-      <h1>oi mundo!</h1>
+      <Header />
     </div>
   );
 }
